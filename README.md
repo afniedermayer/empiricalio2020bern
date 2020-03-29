@@ -15,3 +15,9 @@
 ## Lecture 4
 
 [Slides Lecture 4](empiricalio4.pdf)
+
+## Lecture 5
+
+[Slides Lecture 5](empiricalio5.pdf)
+
+[Notebook on kernel density estimation with exercise](kernel-density-example.ipynb)
