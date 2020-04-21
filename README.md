@@ -22,6 +22,10 @@
 
 [Notebook on kernel density estimation with exercise](kernel-density-example.ipynb)
 
+[Solution to Kernel Density Estimation Exercises](kernel-density-solution.ipynb)
+
+[Solution to Kernel Density Estimation, Exercise 2 Under The Assumption of Symmetry](kernel-density-solution-symmetric.ipynb)
+
 ## Lecture 6
 
 ### Lecture Notes
@@ -46,8 +50,13 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook with BLP Exercise](exercise_blp.ipynb)
 
+[Solution of BLP Exercise](exercise_blp_solution.ipynb)
+
 ## Lecture 7
 
 [Slides Lecture 7](empiricalio7.pdf)
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
+[Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
